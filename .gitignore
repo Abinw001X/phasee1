@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+node_modules/
+frontend/dist/
+frontend/.dependencies-sha256
+backend/.requirements-sha256
+backend/models/*.pt
+backend/models/*.onnx
+backend/tmp/
+backend/reports/
+.pytest_cache/
+*.pdf
+.DS_Store

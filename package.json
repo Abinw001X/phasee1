@@ -1,0 +1,9 @@
+{
+  "name": "dentlink-ai",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "bash ./start.sh",
+    "start": "npm run dev"
+  }
+}
